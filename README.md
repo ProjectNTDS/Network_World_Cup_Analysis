@@ -24,10 +24,13 @@ Also find teams and countries.
 
 5) Identify the players in each team?
 > Building a feature graph (connecting players+countries depending on number of visits), can we identify the teams?
+
 > Using the network (each player is connected to the page of the team), can we cluster football players into the teams that played in the world cup? For exemple, putting a peak on a country should first transmit the heat to the team it is linked to. 
+
 > Slight twist to the network: compute Pearson correlation score between feature vector of each player. High correlation is mostly due to similar behaviour exhibited by the team structure. Connecting players based on that correlation (threshold), can we, on the resulting network, observe cluster. 
 
-6) Say something about the <b>smoothness</b> of the graph: find date match, observe if there's a peak on the team. Look at the peak on each players. So we limit ourselves to the team, and look at the distribution. Does it link to the team ? Can we spot the players that scored (maybe normalise each player by the average value). Is there a change in smoothness depending on the outcome? (woudln't the less smooth team have more noticeble performances (be them good or bad). 
+6) Say something about the <b>smoothness</b> of the graph: 
+>find date match, observe if there's a peak on the team. Look at the peak on each players. So we limit ourselves to the team, and look at the distribution. Does it link to the team ? Can we spot the players that scored (maybe normalise each player by the average value). Is there a change in smoothness depending on the outcome? (woudln't the less smooth team have more noticeble performances (be them good or bad). 
 
 7) During the match: identify the scoring players and man of the match?
 > Should be a peak in number of visits for these nodes.
