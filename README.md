@@ -13,7 +13,7 @@
 > Idem. 
 
 4) Identify the players in each team?
-> Using the network (each player is connected to the page of the team), can we cluster football players into the teams that played in the world cup? 
+> Using the network (each player is connected to the page of the team), can we cluster football players into the teams that played in the world cup? For exemple, putting a peak on a country should first transmit the heat to the team it is linked to. 
 
 5) During the match: identify the scoring players and man of the match?
 > Should be a peak in number of visits for these nodes.
