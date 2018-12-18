@@ -5,11 +5,13 @@
 ### Main questions:
 1) Network analysis.: Can we, based on properties of the nodes, identify the categories in a network made of countries, national teams and players?  (should be scale-free)
 
+{
 2) Where was the world cup?
 > Getting the number of visits on year on specific sport related categories, can we identify a peak matching the world cup? 
 
 3) Can we identify the date/time of the match?
 > Idem for a match on a per day basis centred around the right date.  
+}
 
 4) Identify the countries that participate at each level?
 > Look at the evolution of number of views. Is there a peak for certain countries matching the match dates? 
