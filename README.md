@@ -40,7 +40,7 @@ Why: network related with an evident hierarchical strucutre (players, teams, cou
 
 - Using the network of hyperlinks (each player is connected to the page of the team), can we cluster football players into the teams that played in the world cup? For exemple, putting a delta signal on a country should first transmit the heat to the team it is linked to. 
 
-- Slight twist to the network: compute Pearson correlation score between feature vector of each player. High correlation is mostly due to similar behaviour exhibited by the team structure (players of the same team play at the same time and are thus likely to be "wikipedia" on the same time => correlation). Connecting players based on that correlation (threshold), can we, on the resulting network, observe cluster. 
+- Slight twist to the network: compute Pearson correlation score (or any other metric of simularity: experiment men/woman!) between feature vector of each player. High correlation is mostly due to similar behaviour exhibited by the team structure (players of the same team play at the same time and are thus likely to be "wikipedia" on the same time => correlation). Connecting players based on that correlation (threshold), can we, on the resulting network, observe cluster. 
 
 #### 5. Say something about the <b>smoothness</b> of the graph: 
 - For a given date and a given team, observe signal on the players. Is it smooth or peaky (some players more search). Does it link to the performance of these players and is there a correlation with the result of the match for that team (smoother= lost, peaky = won (high number of good performances giving a lot of search for the associated players)? ). 
