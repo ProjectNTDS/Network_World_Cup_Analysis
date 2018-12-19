@@ -1,9 +1,15 @@
 # Project Wikipedia
 
+DRIVE: 
+
+https://docs.google.com/spreadsheets/d/1M_441_gcpbfUp6pucmgoEl70fSWptNaTiJLhEdhKvhw/edit?usp=sharing
 REMARKS : 
 Per hour sampling is too hard (according to TA). Limit to per day (feature verctors with 30 entries for 30 days for each node). 
-Use API to get the data: 
-https://en.wikipedia.org/w/index.php?title=Category:2018_FIFA_World_Cup_players&pagefrom=Layun%2C+Miguel%0AMiguel+Layún#mw-pages for players
+
+Use API to get the dat (for players):
+
+https://en.wikipedia.org/w/index.php?title=Category:2018_FIFA_World_Cup_players&pagefrom=Layun%2C+Miguel%0AMiguel+Layún#mw-pages 
+
 Also find teams and countries. 
 
 
