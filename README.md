@@ -29,10 +29,9 @@ Why: network related with an evident hierarchical strucutre (players, teams, cou
 #### 3. Can we identify the date of the matches?
 - Idem for a match on a per day basis centred around the right date. - Look at the evolution of number of views. Is there a peak for certain countries matching the match dates? 
 
-- Building a feature graph (connecting players+countries depending on number of visits and a certain threshold), can we identify the match? Could we see the graph evolving in a significant manner when linking fixed nodes based on the number of visit (above a certain threshold): do players connect naturally when a match has happened?
+- Building a feature graph (nodes =  players+countries  and links depends on number of visits per day and a certain threshold), can we identify the match? Could we see the graph evolving in a significant manner when linking fixed nodes based on the number of visit (above a certain threshold): do players connect naturally when a match has happened? Do we see matches or teams patterns emerging. 
 
 #### 4. Identify the players in each team?
-- Building a feature graph (connecting players+countries depending on number of visits), can we identify the teams? 
 
 - Using the network of hyperlinks (each player is connected to the page of the team), can we cluster football players into the teams that played in the world cup? For exemple, putting a delta signal on a country should first transmit the heat to the team it is linked to. 
 
