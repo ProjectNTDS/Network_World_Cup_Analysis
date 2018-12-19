@@ -42,8 +42,8 @@ Why: network related with an evident hierarchical strucutre (players, teams, cou
 
 - Slight twist to the network: compute Pearson correlation score (or any other metric of simularity: experiment men/woman!) between feature vector of each player. High correlation is mostly due to similar behaviour exhibited by the team structure (players of the same team play at the same time and are thus likely to be "wikipedia" on the same time => correlation). Connecting players based on that correlation (threshold), can we, on the resulting network, observe cluster. 
 
-#### 5. Say something about the <b>smoothness</b> of the graph: 
-- For a given date and a given team, observe signal on the players. Is it smooth or peaky (some players more search). Does it link to the performance of these players and is there a correlation with the result of the match for that team [smoother= lost, peaky = won (high number of good performances giving a lot of search for the associated players)?]. 
+#### 5. Say something about the <b>smoothness</b> of the graph (node = players and links arranged to connect the teams): 
+- For a given date and a given team, observe signal on the team (each player). Is it smooth or peaky (some players more search). Does it link to the performance of these players and is there a correlation with the result of the match for that team [smoother= lost, peaky = won (high number of good performances giving a lot of search for the associated players)?]. 
 
 [Same but formulated badly : find date match, observe if there's a peak on the team. Look at the peak on each players. So we limit ourselves to the team, and look at the distribution. Does it link to the team ? Can we spot the players that scored (maybe normalise each player by the average value). Is there a change in smoothness depending on the outcome? (woudln't the less smooth team have more noticeble performances (be them good or bad).]
 
