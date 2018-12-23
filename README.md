@@ -3,12 +3,12 @@
 REMARKS : 
 Per hour sampling is too hard (according to TA). Limit to per day (feature verctors with 30 entries for 30 days for each node). 
 
-TASK 0 : get the data
-Use API to get the dat (for players):
+## TASK 0 : get the data
+Use API to get the data (for players):
 
 https://en.wikipedia.org/w/index.php?title=Category:2018_FIFA_World_Cup_players&pagefrom=Layun%2C+Miguel%0AMiguel+Layún#mw-pages 
 
-Also find teams and countries in the World CUp. 
+Also find teams and countries in the World Cup. This is done manually
 
 1) need countries not in the world cup. Sample that shit. Maybe every country that ever played in the world cup? 
 
