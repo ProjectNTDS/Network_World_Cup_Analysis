@@ -24,6 +24,12 @@ Same files as above but the names end with "_Normalised"
 - All_Nodes.csv: each nodes and its category [useful to create a new csv but keep this one clean!]
 - Nodes_Linked.csv: each node enters the table with its links in Links and the category of the node in Category(the original one or, equivalently, that in the Nodes column). Use this for the connected network base on hyperlinks (do check that what you obtain is connected!)
 
+#### [UPDATED]
+
+Added file:
+
+- Team_Players.csv : dataset with national team, each players in it, position in the team coded (as in https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_squads) and captain (boolean). <b>Important remark </b>: coding of the names of player DOES NOT ALWAYS MATCH that of the other one (here player name, NOT player page name !). To compare the data, just check the name of the players in this dataframe IS CONTAINED in that of the actual one. Note also the other is not the same so don't use index. 
+
 ### Supplement:
 These should not be necessary as they only contain the node and its category in seperated files for each category
 Separeted Info:
