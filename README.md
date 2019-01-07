@@ -3,6 +3,40 @@
 REMARKS : 
 Per hour sampling is too hard (according to TA). Limit to per day (feature verctors with 30 entries for 30 days for each node). 
 
+## Summary of what is available in Data:
+### With Numbers of Visit
+
+#### Numbers of visit in absolute scale
+- All_Nodes_During_WC.csv: a table with every nodes, their categories and the number of visit per day during the World cup itself (the world cup started on 14 June and lasted until 15 July 2018). This starts on the 10th of June and ends on 20th of July (border included). [Remark: for All_Nodes_During_WC.csv, 2 problems occur at the nodes 209 and 572 (Peter Etebo and Ricardo Pereira). Their numbers of visits are set to 0.]
+
+- Countries_Enlarged_During_Year.csv: [for question 2] any countries in any world cup in history. Number of visit per month during the year of the world cup (actually: from 14 November 2017 to (included) 14 November 2018. IMPORTANT REMARK: to help observe the world cup, start of month is set to 14 (since the world cup started the 14th June). The column indicates the month the time started. This is done because otherwise the world cup is cut in two parts.
+
+- Countries_Enlarged_During_Year_centred.csv: same as right above except it starts at the first of the month and goes from Decembre 2017 to Novembre 2018
+
+#### Numbers of visit in Normalised scale
+Same files as above but the names end with "_Normalised"
+
+- All_Nodes_During_WC_Normalised.csv: as above but normalised. Last column 'Sum' (index 43) is the total value !!
+
+- Countries_Enlarged_During_Year_Normalised.csv: as above but normalised. Last column 'Sum' (index 14)is the total value !!
+
+### Without Number of Visits
+- All_Nodes.csv: each nodes and its category [useful to create a new csv but keep this one clean!]
+- Nodes_Linked.csv: each node enters the table with its links in Links and the category of the node in Category(the original one or, equivalently, that in the Nodes column). Use this for the connected network base on hyperlinks (do check that what you obtain is connected!)
+
+### Supplement:
+These should not be necessary as they only contain the node and its category in seperated files for each category
+Separeted Info:
+
+- players in the 2018 World Cup in All_players.csv
+- countries in the 2018 World Cup in All_countries.csv
+- teams in the 2018 World Cup in All_National_Teams.csv
+
+And in extra, with more entries than just that World Cup: [modified for question 2 in later]
+
+- any countries in any world cup in Countries_Enlarged.csv
+
+
 ## TASK 0 : get the data
 Use API to get the data (for players):
 
