@@ -28,7 +28,7 @@ Same files as above but the names end with "_Normalised"
 
 Added file:
 
-- Team_Players.csv : dataset with national team, each players in it, position in the team coded (as in https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_squads) and captain (boolean). <b>Important remark </b>: coding of the names of player DOES NOT ALWAYS MATCH that of the other one (here player name, NOT player page name !). To compare the data, just check the name of the players in this dataframe IS CONTAINED in that of the actual one. Note also the other is not the same so don't use index. 
+- Team_Players.csv : dataset with national team, each players in it, position in the team coded (as in https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_squads) and captain (boolean). <b>Important remark </b>: coding of the names of player DOES NOT ALWAYS MATCH that of the other one (here player name, NOT player page name !). To compare the data, just check the name of the players in this dataframe IS CONTAINED in that of the actual one (subspace obtained may be larger than 1 since several names appear multiple time. Just check that in that subspace, one of the national team match for exemple if you want to check label computed vs true ones). Note also the other is not the same so DO NOT use index comparison. 
 
 ### Supplement:
 These should not be necessary as they only contain the node and its category in seperated files for each category
