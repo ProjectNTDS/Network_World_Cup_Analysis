@@ -4,7 +4,6 @@
 
 - Save your adjacency matrix with an evident name in the sub folder "<b><i>./Data/Adjacencies/</i></b>" and update list next cell.
 - Only overwrite these if you're sure of what you're bringing
-- If you change Imports, make sure the rest works
 - Please check your results
 - Per hour sampling is too hard (according to TA). Limit to per day (feature verctors with 30 entries for 30 days for each node). 
 
