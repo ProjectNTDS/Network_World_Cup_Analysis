@@ -1,9 +1,18 @@
 # Project Wikipedia
 
-REMARKS : 
-Per hour sampling is too hard (according to TA). Limit to per day (feature verctors with 30 entries for 30 days for each node). 
+# Remarks:
+
+- Save your adjacency matrix with an evident name in the sub folder "<b><i>./Data/Adjacencies/</i></b>" and update list next cell.
+- Only overwrite these if you're sure of what you're bringing
+- Please check your results
+- Per hour sampling is too hard (according to TA). Limit to per day (feature verctors with 30 entries for 30 days for each node). 
 
 ## Summary of what is available in Data:
+
+### Adjacencies available:
+- **adjacency_hyperlinks**: constructed with every category and links based on hyperlinks. **This is directed and it is normal!** If you need it otherwise, symmetrise it and save it in another csv. 
+- ...
+
 ### With Numbers of Visit
 
 #### Numbers of visit in absolute scale
