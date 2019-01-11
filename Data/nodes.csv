@@ -1,0 +1,737 @@
+index,Node,Category,true_label
+0,Mohamed Abdel-Shafy,player,Egypt national football team
+1,Shehu Abdullahi,player,Nigeria national football team
+2,Amir Abedzadeh,player,Iran national football team
+3,Johnny Acosta,player,Costa Rica national football team
+4,Marcos Acuña,player,Argentina national football team
+5,Luis Advíncula,player,Peru national football team
+6,Sergio Agüero,player,Argentina national football team
+7,Abel Aguilar,player,Colombia national football team
+8,Youssef Aït Bennasser,player,Morocco national football team
+9,Manuel Akanji,player,Switzerland national football team
+10,Igor Akinfeev,player,Russia national football team
+11,Daniel Akpeyi,player,Nigeria national football team
+12,Jordi Alba,player,Spain national football team
+13,Mohammed Al-Breik,player,Saudi Arabia national football team
+14,Ali Al-Bulaihi,player,Saudi Arabia national football team
+15,Salem Al-Dawsari,player,Saudi Arabia national football team
+16,Toby Alderweireld,player,Belgium national football team
+17,Trent Alexander-Arnold,player,England national football team
+18,Salman Al-Faraj,player,Saudi Arabia national football team
+19,Mansoor Al-Harbi,player,Saudi Arabia national football team
+20,"Alisson (footballer, born 1992)",player,Not found or not a player
+21,Taisir Al-Jassim,player,Saudi Arabia national football team
+22,Abdullah Al-Khaibari,player,Saudi Arabia national football team
+23,Abdulmalek Al-Khaibri,player,Saudi Arabia national football team
+24,Dele Alli,player,England national football team
+25,Abdullah Al-Mayouf,player,Saudi Arabia national football team
+26,Housain Al-Mogahwi,player,Saudi Arabia national football team
+27,Yasser Al-Mosailem,player,Saudi Arabia national football team
+28,Fahad Al-Muwallad,player,Saudi Arabia national football team
+29,Mohammed Al-Owais,player,Saudi Arabia national football team
+30,Mohammad Al-Sahlawi,player,Saudi Arabia national football team
+31,Yasser Al-Shahrani,player,Saudi Arabia national football team
+32,Yahya Al-Shehri,player,Saudi Arabia national football team
+33,Edson Álvarez,player,Mexico national football team
+34,Bruno Alves,player,Portugal national football team
+35,Vahid Amiri,player,Iran national football team
+36,Nordin Amrabat,player,Morocco national football team
+37,Sofyan Amrabat,player,Morocco national football team
+38,Cristian Ansaldi,player,Argentina national football team
+39,Karim Ansarifard,player,Iran national football team
+40,Javier Aquino,player,Mexico national football team
+41,Pedro Aquino,player,Peru national football team
+42,Miguel Araujo,player,Peru national football team
+43,Alphonse Areola,player,France national football team
+44,Santiago Arias,player,Colombia national football team
+45,Franco Armani,player,Argentina national football team
+46,Kári Árnason,player,Iceland national football team
+47,Kepa Arrizabalaga,player,Spain national football team
+48,Abdiel Arroyo,player,Panama national football team
+49,Daniel Arzani,player,Australia national soccer team
+50,Marco Asensio,player,Spain national football team
+51,Ayman Ashraf,player,Egypt national football team
+52,Iago Aspas,player,Spain national football team
+53,Muhannad Assiri,player,Saudi Arabia national football team
+54,Ludwig Augustinsson,player,Sweden national football team
+55,Ricardo Ávila,player,Panama national football team
+56,Chidozie Awaziem,player,Nigeria national football team
+57,Hugo Ayala,player,Mexico national football team
+58,Sardar Azmoun,player,Iran national football team
+59,Randall Azofeifa,player,Costa Rica national football team
+60,César Azpilicueta,player,Spain national football team
+61,Carlos Bacca,player,Colombia national football team
+62,Milan Badelj,player,Croatia national football team
+63,Anice Badri,player,Tunisia national football team
+64,Hattan Bahebri,player,Saudi Arabia national football team
+65,Keita Baldé,player,Senegal national football team
+66,Leon Balogun,player,Nigeria national football team
+67,Felipe Baloy,player,Panama national football team
+68,Éver Banega,player,Argentina national football team
+69,Édgar Yoel Bárcenas,player,Not found or not a player
+70,Wílmar Barrios,player,Colombia national football team
+71,Michy Batshuayi,player,Belgium national football team
+72,Jan Bednarek (footballer),player,Not found or not a player
+73,Rami Bedoui,player,Tunisia national football team
+74,Aziz Behich,player,Australia national soccer team
+75,Valon Behrami,player,Switzerland national football team
+76,Alireza Beiranvand,player,Iran national football team
+77,Younès Belhanda,player,Morocco national football team
+78,Mohamed Amine Ben Amor,player,Tunisia national football team
+79,Farouk Ben Mustapha,player,Tunisia national football team
+80,Fakhreddine Ben Youssef,player,Tunisia national football team
+81,Syam Ben Youssef,player,Tunisia national football team
+82,Yohan Benalouane,player,Tunisia national football team
+83,Medhi Benatia,player,Morocco national football team
+84,Rodrigo Bentancur,player,Uruguay national football team
+85,Bartosz Bereszyński,player,Poland national football team
+86,Marcus Berg,player,Sweden national football team
+87,"Beto (footballer, born 1982)",player,Not found or not a player
+88,Bartosz Białkowski,player,Poland national football team
+89,Lucas Biglia,player,Argentina national football team
+90,Birkir Bjarnason,player,Iceland national football team
+91,Jakub Błaszczykowski,player,Poland national football team
+92,Jérôme Boateng,player,Germany national football team
+93,Jón Daði Böðvarsson,player,Iceland national football team
+94,Christian Bolaños,player,Costa Rica national football team
+95,Celso Borges,player,Costa Rica national football team
+96,Miguel Borja,player,Colombia national football team
+97,Aziz Bouhaddouz,player,Morocco national football team
+98,Yassine Bounou,player,Morocco national football team
+99,Mbark Boussoufa,player,Morocco national football team
+100,Khalid Boutaïb,player,Morocco national football team
+101,Dedryck Boyata,player,Belgium national football team
+102,Filip Bradarić,player,Croatia national football team
+103,Martin Braithwaite,player,Denmark national football team
+104,Julian Brandt,player,Germany national football team
+105,Dylan Bronn,player,Tunisia national football team
+106,Marcelo Brozović,player,Croatia national football team
+107,Roman Bürki,player,Switzerland national football team
+108,Sergio Busquets,player,Spain national football team
+109,Jack Butland,player,England national football team
+110,Willy Caballero,player,Argentina national football team
+111,Carlos Cáceda,player,Peru national football team
+112,Martín Cáceres,player,Uruguay national football team
+113,Gary Cahill,player,England national football team
+114,Tim Cahill,player,Australia national soccer team
+115,José Calderón (Panamanian footballer),player,Not found or not a player
+116,Duje Ćaleta-Car,player,Croatia national football team
+117,Francisco Calvo,player,Costa Rica national football team
+118,Martín Campaña,player,Uruguay national football team
+119,Joel Campbell,player,Costa Rica national football team
+120,Mehdi Carcela,player,Morocco national football team
+121,Yannick Carrasco,player,Belgium national football team
+122,André Carrillo,player,Peru national football team
+123,Wilder Cartagena,player,Peru national football team
+124,Dani Carvajal,player,Spain national football team
+125,William Carvalho,player,Portugal national football team
+126,José Carvallo,player,Peru national football team
+127,Casemiro,player,Brazil national football team
+128,Cássio Ramos,player,Not found or not a player
+129,Koen Casteels,player,Belgium national football team
+130,Edinson Cavani,player,Uruguay national football team
+131,Cédric Soares,player,Not found or not a player
+132,Ghailene Chaalali,player,Tunisia national football team
+133,Nacer Chadli,player,Belgium national football team
+134,Denis Cheryshev,player,Russia national football team
+135,Rouzbeh Cheshmi,player,Iran national football team
+136,Jo Hyeon-woo,player,South Korea national football team
+137,Andreas Christensen,player,Denmark national football team
+138,Thiago Cionek,player,Poland national football team
+139,Viktor Claesson,player,Sweden national football team
+140,Sebastián Coates,player,Uruguay national football team
+141,Daniel Colindres,player,Costa Rica national football team
+142,Armando Cooper,player,Panama national football team
+143,Vedran Ćorluka,player,Croatia national football team
+144,Andreas Cornelius,player,Denmark national football team
+145,Jesús Manuel Corona,player,Mexico national football team
+146,José de Jesús Corona,player,Mexico national football team
+147,Aldo Corzo,player,Peru national football team
+148,Diego Costa,player,Spain national football team
+149,Douglas Costa,player,Brazil national football team
+150,Manuel da Costa (footballer),player,Not found or not a player
+151,Thibaut Courtois,player,Belgium national football team
+152,Philippe Coutinho,player,Brazil national football team
+153,José Fernando Cuadrado,player,Colombia national football team
+154,Juan Cuadrado,player,Colombia national football team
+155,Christian Cueva,player,Peru national football team
+156,Harold Cummings,player,Panama national football team
+157,Henrik Dalsgaard,player,Denmark national football team
+158,"Danilo (footballer, born July 1991)",player,Not found or not a player
+159,Erick Davis,player,Panama national football team
+160,Giorgian De Arrascaeta,player,Uruguay national football team
+161,Kevin De Bruyne,player,Belgium national football team
+162,David de Gea,player,Spain national football team
+163,Milos Degenek,player,Australia national soccer team
+164,Ashkan Dejagah,player,Iran national football team
+165,Thomas Delaney,player,Denmark national football team
+166,Fabian Delph,player,England national football team
+167,Mousa Dembélé (Belgian footballer),player,Not found or not a player
+168,Ousmane Dembélé,player,France national football team
+169,Leander Dendoncker,player,Belgium national football team
+170,Ángel Di María,player,Argentina national football team
+171,Abdoulaye Diallo,player,Senegal national football team
+172,Rúben Dias,player,Portugal national football team
+173,Farid Díaz,player,Colombia national football team
+174,"Ismael Díaz (footballer, born 1997)",player,Not found or not a player
+175,Eric Dier,player,England national football team
+176,Mame Biram Diouf,player,Senegal national football team
+177,Nabil Dirar,player,Morocco national football team
+178,Johan Djourou,player,Switzerland national football team
+179,Marko Dmitrović,player,Serbia national football team
+180,Kasper Dolberg,player,Denmark national football team
+181,Giovani dos Santos,player,Mexico national football team
+182,Jonathan dos Santos,player,Mexico national football team
+183,Julian Draxler,player,Germany national football team
+184,Josip Drmić,player,Switzerland national football team
+185,Óscar Duarte (Costa Rican footballer),player,Not found or not a player
+186,Jimmy Durmaz,player,Sweden national football team
+187,Paulo Dybala,player,Argentina national football team
+188,Alan Dzagoev,player,Russia national football team
+189,Blerim Džemaili,player,Switzerland national football team
+190,Artem Dzyuba,player,Russia national football team
+191,Omid Ebrahimi,player,Iran national football team
+192,Tyronne Ebuehi,player,Nigeria national football team
+193,Elderson Echiéjilé,player,Nigeria national football team
+194,Ederson Moraes,player,Not found or not a player
+195,Albin Ekdal,player,Sweden national football team
+196,Sherif Ekramy,player,Egypt national football team
+197,Karim El Ahmadi,player,Morocco national football team
+198,Ayoub El Kaabi,player,Morocco national football team
+199,Essam El-Hadary,player,Egypt national football team
+200,Mohamed El-Shenawy,player,Egypt national football team
+201,Ahmed Elmohamady,player,Egypt national football team
+202,Mohamed Elneny,player,Egypt national football team
+203,Nico Elvedi,player,Switzerland national football team
+204,Breel Embolo,player,Switzerland national football team
+205,Youssef En-Nesyri,player,Morocco national football team
+206,Wataru Endo,player,Japan national football team
+207,Christian Eriksen,player,Denmark national football team
+208,Fidel Escobar,player,Panama national football team
+209,Peter Etebo,player,Nigeria national football team
+210,Hólmar Örn Eyjólfsson,player,Iceland national football team
+211,Saeid Ezatolahi,player,Iran national football team
+212,Ikechukwu Ezenwa,player,Nigeria national football team
+213,Marco Fabián,player,Mexico national football team
+214,Łukasz Fabiański,player,Poland national football team
+215,Fagner Conserva Lemos,player,Not found or not a player
+216,Fayçal Fajr,player,Morocco national football team
+217,Radamel Falcao,player,Colombia national football team
+218,Jefferson Farfán,player,Peru national football team
+219,Ahmed Fathy,player,Egypt national football team
+220,Federico Fazio,player,Argentina national football team
+221,Nabil Fekir,player,France national football team
+222,Marouane Fellaini,player,Belgium national football team
+223,"Bruno Fernandes (footballer, born 1994)",player,Not found or not a player
+224,Gelson Fernandes,player,Switzerland national football team
+225,"Manuel Fernandes (footballer, born 1986)",player,Not found or not a player
+226,Mário Fernandes (footballer),player,Not found or not a player
+227,Fernandinho (footballer),player,Not found or not a player
+228,Filipe Luís,player,Brazil national football team
+229,Alfreð Finnbogason,player,Iceland national football team
+230,Roberto Firmino,player,Brazil national football team
+231,Viktor Fischer,player,Denmark national football team
+232,Edison Flores,player,Peru national football team
+233,José Fonte,player,Portugal national football team
+234,Emil Forsberg,player,Sweden national football team
+235,"Fred (footballer, born 1993)",player,Not found or not a player
+236,Remo Freuler,player,Switzerland national football team
+237,Samúel Friðjónsson,player,Iceland national football team
+238,Omar Gaber,player,Egypt national football team
+239,Ali Gabr,player,Egypt national football team
+240,Vladimir Gabulov,player,Russia national football team
+241,Jesús Gallardo,player,Mexico national football team
+242,Pedro Gallese,player,Peru national football team
+243,Cristian Gamboa,player,Costa Rica national football team
+244,Lamine Gassama,player,Senegal national football team
+245,Mario Gavranović,player,Switzerland national football team
+246,Yury Gazinsky,player,Russia national football team
+247,Pedro Geromel,player,Brazil national football team
+248,Saman Ghoddos,player,Iran national football team
+249,Reza Ghoochannejhad,player,Iran national football team
+250,José Giménez,player,Uruguay national football team
+251,Matthias Ginter,player,Germany national football team
+252,Olivier Giroud,player,France national football team
+253,Rúrik Gíslason,player,Iceland national football team
+254,Kamil Glik,player,Poland national football team
+255,Go Yo-han,player,South Korea national football team
+256,Diego Godín,player,Uruguay national football team
+257,Aníbal Godoy,player,Panama national football team
+258,Aleksandr Golovin (footballer),player,Not found or not a player
+259,Gabriel Enrique Gómez,player,Not found or not a player
+260,Mario Gómez,player,Germany national football team
+261,Maxi Gómez,player,Uruguay national football team
+262,Alfred Gomis,player,Senegal national football team
+263,Giancarlo González,player,Costa Rica national football team
+264,Jacek Góralski,player,Poland national football team
+265,Leon Goretzka,player,Germany national football team
+266,Vladimir Granat,player,Russia national football team
+267,Andreas Granqvist,player,Sweden national football team
+268,Antoine Griezmann,player,France national football team
+269,Kamil Grosicki,player,Poland national football team
+270,Marko Grujić,player,Serbia national football team
+271,Andrés Guardado,player,Mexico national football team
+272,"Albert Guðmundsson (footballer, born 1997)",player,Not found or not a player
+273,Jóhann Berg Guðmundsson,player,Iceland national football team
+274,Gonçalo Guedes,player,Portugal national football team
+275,Raphaël Guerreiro,player,Portugal national football team
+276,Paolo Guerrero,player,Peru national football team
+277,Idrissa Gueye,player,Senegal national football team
+278,John Guidetti,player,Sweden national football team
+279,İlkay Gündoğan,player,Germany national football team
+280,Aron Gunnarsson,player,Iceland national football team
+281,Érick Gutiérrez,player,Mexico national football team
+282,Kenner Gutiérrez,player,Costa Rica national football team
+283,David Guzmán,player,Costa Rica national football team
+284,Nahuel Guzmán,player,Argentina national football team
+285,Oussama Haddadi,player,Tunisia national football team
+286,Ehsan Hajsafi,player,Iran national football team
+287,Achraf Hakimi,player,Morocco national football team
+288,Hannes Þór Halldórsson,player,Iceland national football team
+289,Emil Hallfreðsson,player,Iceland national football team
+290,Mahmoud Hamdy,player,Egypt national football team
+291,Tarek Hamed,player,Egypt national football team
+292,Genki Haraguchi,player,Japan national football team
+293,Amine Harit,player,Morocco national football team
+294,Makoto Hasebe,player,Japan national football team
+295,Trézéguet (Egyptian footballer),player,Not found or not a player
+296,Mouez Hassen,player,Tunisia national football team
+297,Motaz Hawsawi,player,Saudi Arabia national football team
+298,Omar Hawsawi,player,Saudi Arabia national football team
+299,Osama Hawsawi,player,Saudi Arabia national football team
+300,Eden Hazard,player,Belgium national football team
+301,Thorgan Hazard,player,Belgium national football team
+302,Jonas Hector,player,Germany national football team
+303,Ahmed Hegazi (footballer),player,Not found or not a player
+304,Filip Helander,player,Sweden national football team
+305,Jordan Henderson,player,England national football team
+306,Javier Hernández,player,Mexico national football team
+307,Lucas Hernández,player,France national football team
+308,Héctor Herrera,player,Mexico national football team
+309,Masaaki Higashiguchi,player,Japan national football team
+310,Gonzalo Higuaín,player,Argentina national football team
+311,Oscar Hiljemark,player,Sweden national football team
+312,Keisuke Honda,player,Japan national football team
+313,Hong Chul,player,South Korea national football team
+314,Majid Hosseini,player,Iran national football team
+315,Mats Hummels,player,Germany national football team
+316,Paolo Hurtado,player,Peru national football team
+317,Hwang Hee-chan,player,South Korea national football team
+318,Brian Idowu,player,Nigeria national football team
+319,Odion Ighalo,player,Nigeria national football team
+320,Sergei Ignashevich,player,Russia national football team
+321,Kelechi Iheanacho,player,Nigeria national football team
+322,Sverrir Ingi Ingason,player,Iceland national football team
+323,Andrés Iniesta,player,Spain national football team
+324,Takashi Inui,player,Japan national football team
+325,Jackson Irvine,player,Australia national soccer team
+326,Isco,player,Spain national football team
+327,Branislav Ivanović,player,Serbia national football team
+328,Alex Iwobi,player,Nigeria national football team
+329,"José Izquierdo (footballer, born 1992)",player,Not found or not a player
+330,Alireza Jahanbakhsh,player,Iran national football team
+331,Jang Hyun-soo,player,South Korea national football team
+332,Pontus Jansson,player,Sweden national football team
+333,Adnan Januzaj,player,Belgium national football team
+334,Mile Jedinak,player,Australia national soccer team
+335,Artur Jędrzejczyk,player,Poland national football team
+336,Tin Jedvaj,player,Croatia national football team
+337,Gabriel Jesus,player,Brazil national football team
+338,Raúl Jiménez,player,Mexico national football team
+339,João Mário (Portuguese footballer),player,Not found or not a player
+340,Karl-Johan Johnsson,player,Sweden national football team
+341,Brad Jones (footballer),player,Not found or not a player
+342,"Phil Jones (footballer, born 1992)",player,Not found or not a player
+343,Mathias Jørgensen,player,Denmark national football team
+344,Nicolai Jørgensen,player,Denmark national football team
+345,Luka Jović,player,Serbia national football team
+346,Ju Se-jong,player,South Korea national football team
+347,Jung Seung-hyun,player,South Korea national football team
+348,Jung Woo-young,player,South Korea national football team
+349,Tomi Juric,player,Australia national soccer team
+350,Matthew Jurman,player,Australia national soccer team
+351,Shinji Kagawa,player,Japan national football team
+352,Kahraba (footballer),player,Not found or not a player
+353,Lovre Kalinić,player,Croatia national football team
+354,Nikola Kalinić,player,Croatia national football team
+355,Harry Kane,player,England national football team
+356,Mohamed Kanno,player,Saudi Arabia national football team
+357,N'Golo Kanté,player,France national football team
+358,Eiji Kawashima,player,Japan national football team
+359,Saber Khalifa,player,Tunisia national football team
+360,"Ahmed Khalil (footballer, born 1994)",player,Not found or not a player
+361,Mohammad Reza Khanzadeh,player,Iran national football team
+362,Saîf-Eddine Khaoui,player,Tunisia national football team
+363,Wahbi Khazri,player,Tunisia national football team
+364,Sami Khedira,player,Germany national football team
+365,Ki Sung-yueng,player,South Korea national football team
+366,Isaac Kiese Thelin,player,Sweden national football team
+367,Kim Jin-hyeon,player,South Korea national football team
+368,Kim Min-woo (footballer),player,Not found or not a player
+369,Kim Seung-gyu,player,South Korea national football team
+370,Kim Shin-wook,player,South Korea national football team
+371,Kim Young-gwon,player,South Korea national football team
+372,Joshua Kimmich,player,Germany national football team
+373,Presnel Kimpembe,player,France national football team
+374,Simon Kjær,player,Denmark national football team
+375,Jonas Knudsen,player,Denmark national football team
+376,"Koke (footballer, born 1992)",player,Not found or not a player
+377,Aleksandar Kolarov,player,Serbia national football team
+378,Vincent Kompany,player,Belgium national football team
+379,Moussa Konaté (footballer),player,Not found or not a player
+380,Koo Ja-cheol,player,South Korea national football team
+381,Filip Kostić,player,Serbia national football team
+382,Kalidou Koulibaly,player,Senegal national football team
+383,Cheikhou Kouyaté,player,Senegal national football team
+384,Mateo Kovačić,player,Croatia national football team
+385,Dawid Kownacki,player,Poland national football team
+386,Emil Krafth,player,Sweden national football team
+387,Andrej Kramarić,player,Croatia national football team
+388,Michael Krohn-Dehli,player,Denmark national football team
+389,Toni Kroos,player,Germany national football team
+390,Robbie Kruse,player,Australia national soccer team
+391,Grzegorz Krychowiak,player,Poland national football team
+392,Fyodor Kudryashov,player,Russia national football team
+393,Rafał Kurzawa,player,Poland national football team
+394,Ilya Kutepov,player,Russia national football team
+395,Daler Kuzyayev,player,Russia national football team
+396,William Kvist,player,Denmark national football team
+397,Michael Lang (footballer),player,Not found or not a player
+398,Sebastian Larsson,player,Sweden national football team
+399,Diego Laxalt,player,Uruguay national football team
+400,Miguel Layún,player,Mexico national football team
+401,Mathew Leckie,player,Australia national soccer team
+402,"Lee Jae-sung (footballer, born 1992)",player,Not found or not a player
+403,Lee Seung-woo,player,South Korea national football team
+404,"Lee Yong (footballer, born 1986)",player,Not found or not a player
+405,Thomas Lemar,player,France national football team
+406,Lukas Lerager,player,Denmark national football team
+407,Jefferson Lerma,player,Colombia national football team
+408,Robert Lewandowski,player,Poland national football team
+409,Stephan Lichtsteiner,player,Switzerland national football team
+410,Victor Lindelöf,player,Sweden national football team
+411,Karol Linetty,player,Poland national football team
+412,Jesse Lingard,player,England national football team
+413,Dominik Livaković,player,Croatia national football team
+414,Adem Ljajić,player,Serbia national football team
+415,Hugo Lloris,player,France national football team
+416,Giovani Lo Celso,player,Argentina national football team
+417,Ruben Loftus-Cheek,player,England national football team
+418,Anthony Lopes,player,Portugal national football team
+419,Jonas Lössl,player,Denmark national football team
+420,Dejan Lovren,player,Croatia national football team
+421,Nilson Loyola,player,Peru national football team
+422,Hirving Lozano,player,Mexico national football team
+423,Romelu Lukaku,player,Belgium national football team
+424,Andrey Lunyov,player,Russia national football team
+425,Massimo Luongo,player,Australia national soccer team
+426,Mikael Lustig,player,Sweden national football team
+427,Ali Maâloul,player,Tunisia national football team
+428,Adolfo Machado,player,Panama national football team
+429,Jamie Maclaren,player,Australia national soccer team
+430,Hörður Björgvin Magnússon,player,Iceland national football team
+431,Harry Maguire,player,England national football team
+432,Tomoaki Makino,player,Japan national football team
+433,Steve Mandanda,player,France national football team
+434,Mario Mandžukić,player,Croatia national football team
+435,Sadio Mané,player,Senegal national football team
+436,"Marcelo (footballer, born 1988)",player,Not found or not a player
+437,Mário Rui,player,Portugal national football team
+438,Rafael Márquez,player,Mexico national football team
+439,Marquinhos,player,Brazil national football team
+440,Gelson Martins,player,Portugal national football team
+441,Javier Mascherano,player,Argentina national football team
+442,Aymen Mathlouthi,player,Tunisia national football team
+443,Nemanja Matić,player,Serbia national football team
+444,Blaise Matuidi,player,France national football team
+445,Mohammad Rashid Mazaheri,player,Iran national football team
+446,Kylian Mbappé,player,France national football team
+447,Adama Mbengue,player,Senegal national football team
+448,Kara Mbodji,player,Senegal national football team
+449,Benjamin Mendy,player,France national football team
+450,Hamza Mendyl,player,Morocco national football team
+451,Gabriel Mercado,player,Argentina national football team
+452,James Meredith (footballer),player,Not found or not a player
+453,Yassine Meriah,player,Tunisia national football team
+454,Dries Mertens,player,Belgium national football team
+455,Lionel Messi,player,Argentina national football team
+456,Thomas Meunier,player,Belgium national football team
+457,Maximiliano Meza,player,Argentina national football team
+458,Simon Mignolet,player,Belgium national football team
+459,John Obi Mikel,player,Nigeria national football team
+460,Nikola Milenković,player,Serbia national football team
+461,Arkadiusz Milik,player,Poland national football team
+462,Sergej Milinković-Savić,player,Serbia national football team
+463,Luka Milivojević,player,Serbia national football team
+464,Mark Milligan,player,Australia national soccer team
+465,Yerry Mina,player,Colombia national football team
+466,Aleksei Miranchuk,player,Russia national football team
+467,Anton Miranchuk,player,Russia national football team
+468,Miranda (footballer),player,Not found or not a player
+469,Aleksandar Mitrović (footballer),player,Not found or not a player
+470,Luka Modrić,player,Croatia national football team
+471,Milad Mohammadi,player,Iran national football team
+472,Marwan Mohsen,player,Egypt national football team
+473,Johan Mojica,player,Colombia national football team
+474,Nacho Monreal,player,Spain national football team
+475,Pejman Montazeri,player,Iran national football team
+476,Moon Seon-min,player,South Korea national football team
+477,Aaron Mooy,player,Australia national soccer team
+478,Leonel Moreira,player,Costa Rica national football team
+479,Héctor Moreno,player,Mexico national football team
+480,Sam Morsy,player,Egypt national football team
+481,Victor Moses,player,Nigeria national football team
+482,François Moubandje,player,Switzerland national football team
+483,João Moutinho,player,Portugal national football team
+484,Thomas Müller,player,Germany national football team
+485,Munir Mohand Mohamedi,player,Not found or not a player
+486,Luis Muriel,player,Colombia national football team
+487,Michael Amir Murillo,player,Panama national football team
+488,Óscar Murillo,player,Colombia national football team
+489,Ahmed Musa,player,Nigeria national football team
+490,Fernando Muslera,player,Uruguay national football team
+491,Yoshinori Muto,player,Japan national football team
+492,Yvon Mvogo,player,Switzerland national football team
+493,Andrew Nabbout,player,Australia national soccer team
+494,"Nacho (footballer, born 1990)",player,Not found or not a player
+495,Yuto Nagatomo,player,Japan national football team
+496,Hamdi Nagguez,player,Tunisia national football team
+497,Kosuke Nakamura,player,Japan national football team
+498,Nahitan Nández,player,Uruguay national football team
+499,Keylor Navas,player,Costa Rica national football team
+500,Alfred N'Diaye,player,Senegal national football team
+501,Badou Ndiaye,player,Senegal national football team
+502,Khadim N'Diaye,player,Senegal national football team
+503,Wilfred Ndidi,player,Nigeria national football team
+504,Cheikh N'Doye,player,Senegal national football team
+505,Manuel Neuer,player,Germany national football team
+506,Neymar,player,Brazil national football team
+507,M'Baye Niang,player,Senegal national football team
+508,Kristoffer Nordfeldt,player,Sweden national football team
+509,Simeon Nwankwo,player,Nigeria national football team
+510,Steven Nzonzi,player,France national football team
+511,Joel Obi,player,Nigeria national football team
+512,Guillermo Ochoa,player,Mexico national football team
+513,Álvaro Odriozola,player,Spain national football team
+514,John Ogu,player,Nigeria national football team
+515,Oh Ban-suk,player,South Korea national football team
+516,Shinji Okazaki,player,Japan national football team
+517,Robin Olsen,player,Sweden national football team
+518,Martin Olsson,player,Sweden national football team
+519,Kenneth Omeruo,player,Nigeria national football team
+520,Ogenyi Onazi,player,Nigeria national football team
+521,Yuya Osako,player,Japan national football team
+522,Ryota Oshima,player,Japan national football team
+523,David Ospina,player,Colombia national football team
+524,Nicolás Otamendi,player,Argentina national football team
+525,Abdullah Otayf,player,Saudi Arabia national football team
+526,Luis Ovalle,player,Panama national football team
+527,Bryan Oviedo,player,Costa Rica national football team
+528,Mesut Özil,player,Germany national football team
+529,Park Joo-ho,player,South Korea national football team
+530,Rui Patrício,player,Portugal national football team
+531,Paulinho (footballer),player,Not found or not a player
+532,Benjamin Pavard,player,France national football team
+533,Cristian Pavón,player,Argentina national football team
+534,Michał Pazdan,player,Poland national football team
+535,Patrick Pemberton,player,Costa Rica national football team
+536,Jaime Penedo,player,Panama national football team
+537,"Pepe (footballer, born 1983)",player,Not found or not a player
+538,Oribe Peralta,player,Mexico national football team
+539,Maxi Pereira,player,Uruguay national football team
+540,Blas Pérez,player,Panama national football team
+541,Enzo Pérez,player,Argentina national football team
+542,Ivan Perišić,player,Croatia national football team
+543,Sławomir Peszko,player,Poland national football team
+544,Dimitri Petratos,player,Australia national soccer team
+545,Jordan Pickford,player,England national football team
+546,Valentín Pimentel,player,Panama national football team
+547,Gerard Piqué,player,Spain national football team
+548,Łukasz Piszczek,player,Poland national football team
+549,Josip Pivarić,player,Croatia national football team
+550,Marko Pjaca,player,Croatia national football team
+551,Marvin Plattenhardt,player,Germany national football team
+552,Paul Pogba,player,France national football team
+553,Andy Polo,player,Peru national football team
+554,Nick Pope (footballer),player,Not found or not a player
+555,Yussuf Poulsen,player,Denmark national football team
+556,Morteza Pouraliganji,player,Iran national football team
+557,Aleksandar Prijović,player,Serbia national football team
+558,Ricardo Quaresma,player,Portugal national football team
+559,Juan Fernando Quintero,player,Colombia national football team
+560,Nemanja Radonjić,player,Serbia national football team
+561,Predrag Rajković,player,Serbia national football team
+562,Ivan Rakitić,player,Croatia national football team
+563,Adil Rami,player,France national football team
+564,Christian Ramos,player,Peru national football team
+565,Sergio Ramos,player,Spain national football team
+566,Marcus Rashford,player,England national football team
+567,Ante Rebić,player,Croatia national football team
+568,Pepe Reina,player,Spain national football team
+569,Renato Augusto,player,Brazil national football team
+570,Marco Reus,player,Germany national football team
+571,Ramin Rezaeian,player,Iran national football team
+572,"Ricardo Pereira (footballer, born 1993)",player,Not found or not a player
+573,Josh Risdon,player,Australia national soccer team
+574,Milan Rodić,player,Serbia national football team
+575,"Rodrigo (footballer, born 1991)",player,Not found or not a player
+576,Alberto Junior Rodríguez,player,Not found or not a player
+577,Álex Rodríguez (Panamanian footballer),player,Not found or not a player
+578,Cristian Rodríguez,player,Uruguay national football team
+579,James Rodríguez,player,Colombia national football team
+580,"José Luis Rodríguez (footballer, born 1998)",player,Not found or not a player
+581,Ricardo Rodríguez (footballer),player,Not found or not a player
+582,Tom Rogic,player,Australia national soccer team
+583,Marcus Rohdén,player,Sweden national football team
+584,Marcos Rojo,player,Argentina national football team
+585,Cristiano Ronaldo,player,Portugal national football team
+586,Frederik Rønnow,player,Denmark national football team
+587,"Danny Rose (footballer, born 1990)",player,Not found or not a player
+588,Antonio Rüdiger,player,Germany national football team
+589,Sebastian Rudy,player,Germany national football team
+590,Raúl Ruidíaz,player,Peru national football team
+591,Bryan Ruiz,player,Costa Rica national football team
+592,Antonio Rukavina,player,Serbia national football team
+593,Rúnar Alex Rúnarsson,player,Iceland national football team
+594,Mathew Ryan,player,Australia national soccer team
+595,Maciej Rybus,player,Poland national football team
+596,Youssouf Sabaly,player,Senegal national football team
+597,Birkir Már Sævarsson,player,Iceland national football team
+598,Abdallah Said,player,Egypt national football team
+599,Trent Sainsbury,player,Australia national soccer team
+600,Romain Saïss,player,Morocco national football team
+601,Gōtoku Sakai,player,Japan national football team
+602,Hiroki Sakai,player,Japan national football team
+603,Diafra Sakho,player,Senegal national football team
+604,Mohamed Salah,player,Egypt national football team
+605,Carlos Salcedo,player,Mexico national football team
+606,Eduardo Salvio,player,Argentina national football team
+607,Aleksandr Samedov,player,Russia national football team
+608,Saad Samir,player,Egypt national football team
+609,Carlos Andrés Sánchez,player,Not found or not a player
+610,Carlos Sánchez Moreno,player,Not found or not a player
+611,Dávinson Sánchez,player,Colombia national football team
+612,Salif Sané,player,Senegal national football team
+613,Anderson Santamaría,player,Peru national football team
+614,Ismaïla Sarr,player,Senegal national football team
+615,Ferjani Sassi,player,Tunisia national football team
+616,Saúl Ñíguez,player,Not found or not a player
+617,Fabian Schär,player,Switzerland national football team
+618,Kasper Schmeichel,player,Denmark national football team
+619,Lasse Schöne,player,Denmark national football team
+620,Frederik Schram,player,Iceland national football team
+621,Haris Seferović,player,Switzerland national football team
+622,Andrei Sergeyevich Semyonov,player,Not found or not a player
+623,Xherdan Shaqiri,player,Switzerland national football team
+624,Gaku Shibasaki,player,Japan national football team
+625,Shikabala,player,Egypt national football team
+626,Masoud Shojaei,player,Iran national football team
+627,Gen Shoji,player,Japan national football team
+628,"Djibril Sidibé (footballer, born 1992)",player,Not found or not a player
+629,Björn Bergmann Sigurðarson,player,Iceland national football team
+630,Gylfi Sigurðsson,player,Iceland national football team
+631,Ragnar Sigurðsson,player,Iceland national football team
+632,Adrien Silva,player,Portugal national football team
+633,"André Silva (footballer, born 1995)",player,Not found or not a player
+634,Bernardo Silva,player,Portugal national football team
+635,David Silva,player,Spain national football team
+636,Gastón Silva,player,Uruguay national football team
+637,Martín Silva,player,Uruguay national football team
+638,Thiago Silva,player,Brazil national football team
+639,Pione Sisto,player,Denmark national football team
+640,Ellyes Skhiri,player,Tunisia national football team
+641,Ari Freyr Skúlason,player,Iceland national football team
+642,Ólafur Ingi Skúlason,player,Iceland national football team
+643,Naïm Sliti,player,Tunisia national football team
+644,"Ian Smith (footballer, born 1998)",player,Not found or not a player
+645,Igor Smolnikov,player,Russia national football team
+646,Fyodor Smolov,player,Russia national football team
+647,Ramadan Sobhi,player,Egypt national football team
+648,Yann Sommer,player,Switzerland national football team
+649,Son Heung-min,player,South Korea national football team
+650,Moussa Sow,player,Senegal national football team
+651,Uroš Spajić,player,Serbia national football team
+652,Bassem Srarfi,player,Tunisia national football team
+653,Raheem Sterling,player,England national football team
+654,Vladimir Stojković,player,Serbia national football team
+655,John Stones,player,England national football team
+656,Ivan Strinić,player,Croatia national football team
+657,Jens Stryger Larsen,player,Denmark national football team
+658,Cristhian Stuani,player,Uruguay national football team
+659,Luis Suárez,player,Uruguay national football team
+660,Danijel Subašić,player,Croatia national football team
+661,Niklas Süle,player,Germany national football team
+662,Gustav Svensson,player,Sweden national football team
+663,Wojciech Szczęsny,player,Poland national football team
+664,Dušan Tadić,player,Serbia national football team
+665,Nicolás Tagliafico,player,Argentina national football team
+666,Ahmed Reda Tagnaouti,player,Morocco national football team
+667,Taison,player,Brazil national football team
+668,Alfredo Talavera,player,Mexico national football team
+669,Renato Tapia,player,Peru national football team
+670,Mehdi Taremi,player,Iran national football team
+671,Luis Tejada,player,Panama national football team
+672,Yeltsin Tejeda,player,Costa Rica national football team
+673,Łukasz Teodorczyk,player,Poland national football team
+674,Marc-André ter Stegen,player,Germany national football team
+675,Florian Thauvin,player,France national football team
+676,Thiago Alcântara,player,Not found or not a player
+677,Youri Tielemans,player,Belgium national football team
+678,Ola Toivonen,player,Sweden national football team
+679,Corentin Tolisso,player,France national football team
+680,Mehdi Torabi,player,Iran national football team
+681,Lucas Torreira,player,Uruguay national football team
+682,Gabriel Torres,player,Panama national football team
+683,Román Torres,player,Panama national football team
+684,Duško Tošić,player,Serbia national football team
+685,Kevin Trapp,player,Germany national football team
+686,Miguel Trauco,player,Peru national football team
+687,Arnór Ingvi Traustason,player,Iceland national football team
+688,Kieran Trippier,player,England national football team
+689,William Troost-Ekong,player,Nigeria national football team
+690,Naomichi Ueda,player,Japan national football team
+691,Samuel Umtiti,player,France national football team
+692,Marco Ureña,player,Costa Rica national football team
+693,Mateus Uribe,player,Colombia national football team
+694,Jonathan Urretaviscaya,player,Uruguay national football team
+695,Takashi Usami,player,Japan national football team
+696,Francis Uzoho,player,Nigeria national football team
+697,Raphaël Varane,player,France national football team
+698,Jamie Vardy,player,England national football team
+699,Guillermo Varela,player,Uruguay national football team
+700,Camilo Vargas,player,Colombia national football team
+701,Lucas Vázquez,player,Spain national football team
+702,Matías Vecino,player,Uruguay national football team
+703,Carlos Vela,player,Mexico national football team
+704,Miloš Veljković,player,Serbia national football team
+705,Johan Venegas,player,Costa Rica national football team
+706,Thomas Vermaelen,player,Belgium national football team
+707,Jan Vertonghen,player,Belgium national football team
+708,Jannik Vestergaard,player,Denmark national football team
+709,Domagoj Vida,player,Croatia national football team
+710,Šime Vrsaljko,player,Croatia national football team
+711,Danny Vukovic,player,Australia national soccer team
+712,Moussa Wagué,player,Senegal national football team
+713,Kyle Walker,player,England national football team
+714,Rodney Wallace (footballer),player,Not found or not a player
+715,Amr Warda,player,Egypt national football team
+716,Kendall Waston,player,Costa Rica national football team
+717,Danny Welbeck,player,England national football team
+718,Timo Werner,player,Germany national football team
+719,"Willian (footballer, born 1988)",player,Not found or not a player
+720,Axel Witsel,player,Belgium national football team
+721,Granit Xhaka,player,Switzerland national football team
+722,Hotaru Yamaguchi,player,Japan national football team
+723,Aleksandr Yerokhin,player,Russia national football team
+724,Maya Yoshida,player,Japan national football team
+725,Yoshimar Yotún,player,Peru national football team
+726,Ashley Young,player,England national football team
+727,Yun Young-sun,player,South Korea national football team
+728,Denis Zakaria,player,Switzerland national football team
+729,Cristián Zapata,player,Colombia national football team
+730,Yuri Zhirkov,player,Russia national football team
+731,Piotr Zieliński,player,Poland national football team
+732,Andrija Živković,player,Serbia national football team
+733,Hakim Ziyech,player,Morocco national football team
+734,Roman Zobnin,player,Russia national football team
+735,Steven Zuber,player,Switzerland national football team
