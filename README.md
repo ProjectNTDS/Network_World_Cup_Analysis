@@ -70,15 +70,11 @@ Why: network related with an evident hierarchical strucutre (players, teams, cou
 #### 1. Network analysis: 
 - Can we, based on properties of the nodes, identify the categories in a network made of countries, national teams and players connected by the hyperlinks? Are leafs players, centre countries, ... ? Show network with actual labels coloured (should be scale-free). The links are based on the hyperlinks scraped. 
 
-#### 2. Where was the world cup? Identify the countries that participate at each level?
-- Getting the number of visits on the year (2017-2018 on per month basis) on countries, can we identify a peak in the popularity of the country matching the world cup? We could normalise that value by the average on a non-world year or a non-world cup part of the year and observe if there's a variation noticable. Applying high pass filter, it should be standing out of the common fluctuations.
+#### 2. Using the number of views: Countries and Matches
+- __A) Identify the countries that participate at each level:__ Getting the number of visits on the year (2017-2018 on per month basis) on countries, can we identify a peak in the popularity of the country matching the world cup? We could normalise that value by the average on a non-world year or a non-world cup part of the year and observe if there's a variation noticable. 
 
-- Network idea for this: nodes = country. Links based on number (normalised/fitlered signal?) of visit per month and a certain threshold. Idea 1: normalise that signal and display an evovling network (one for each month) with nodes fixed. Given a certain threshold, can we see the countries of the world cup linking each other during the event (show it evolving and at that time display the participating countries with colour and check the links connect them. Rapidly eliminated countries may not be linked => conclude). Maybe apply some filter to remove the low frequencies events of each country signal, then normalise and use this as a signal. 
-
-#### 3. Can we identify the date of the matches?
-- Idem for a match on a per day basis centred around the right date. - Look at the evolution of number of views. Is there a peak for certain countries matching the match dates? 
-
-- Building a feature graph (nodes =  players+countries  and links depends on number of visits per day and a certain threshold), can we identify the match? Could we see the graph evolving in a significant manner when linking fixed nodes based on the number of visit (above a certain threshold): do players connect naturally when a match has happened? Do we see matches or teams patterns emerging. 
+- __B) Find which teams played a match on a certain date:__ Look at the evolution of number of views. Is there a peak for certain countries matching the match dates? 
+- Network idea for this: nodes = teams. Links based on number (normalised/fitlered signal?) of visit per month and a certain threshold. Given a certain threshold, can we see the countries of the world cup linking each other during the event (show it evolving and at that time display the participating countries with colour and check the links connect them. Rapidly eliminated countries may not be linked => conclude). Maybe apply some filter to remove the low frequencies events of each country signal, then normalise and use this as a signal. Do players connect naturally when a match has happened? Do we see matches or teams patterns emerging. 
 
 #### 4. Identify the players in each team?
 
