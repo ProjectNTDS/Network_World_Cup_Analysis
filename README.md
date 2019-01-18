@@ -1,4 +1,4 @@
-# Project Wikipedia
+# A Network Analysis of the 2018 FIFA World Cup
 In this Readme, you will find in the following order: 
 - A link to the report.
 - A description of the notebook available on this Github Page.
