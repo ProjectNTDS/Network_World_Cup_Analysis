@@ -1,5 +1,7 @@
 # A Network Analysis of the 2018 FIFA World Cup
-In this Readme, you will find in the following order: 
+## Group 9: Maxence DRAGUET, Robert INJAC, Yannick KLOSE & Manana LORTKIPANIDZE
+
+<b>In this Readme</b>, you will find in the following order: 
 - A link to the report.
 - A description of the notebook available on this Github Page.
 - A description of the task we set out to answer.
