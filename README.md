@@ -83,15 +83,4 @@ And in extra, with more entries than just that World Cup: [modified for question
 
 - any countries in any world cup in Countries_Enlarged.csv
 
-
-#### 6. Open Question (could be baaaaaad) : During the match: identify the scoring players and man of the match?
-- Take a player and show is signal on the month of the world cup. normalise/filter crap and check if any higher peak can be associated to a goal. Can we give a threshold on that signal to conclude that, yes or no, that player scored
-
-### Extra questions (highly useless)
-- which player is better known than his country?
-- which players broke into fame following the world cup?
-
-### Use for project:
-countries, players, teams 
-number of views different timestamps (is an hour reachable?)
-world cup schedule for gathering the data
+# Thank You For Reading !
