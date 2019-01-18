@@ -27,11 +27,10 @@ Note: some of our first ideas needed to sample the number of visits on given Wik
 #### TASK 1. Network analysis:
 - Can we, based on properties of the nodes, identify the categories in a network made of countries, national teams and players connected by the hyperlinks (which we shall name <b>hyperlink network</b>? Are leafs players, centre countries, ... ? Is this network scale-free as one would expect? After this exploratory analysis, can we obtain clusters applying the Louvain method ? Let's also not forget  about the opportunities offered by spectral analysis.
 
-#### TASK 2. Using the signal: 
-- __A) Identify the countries that participate at each level:__ Getting the number of visits on the year (2017-2018 on per month basis) on countries, can we identify a peak in the popularity of the country matching the world cup? We could normalise that value by the average on a non-world year or a non-world cup part of the year and observe if there's a variation noticable. 
+#### TASK 2. Finding the matches: 
 
-- __B) Find which teams played a match on a certain date:__ Look at the evolution of number of views. Is there a peak for certain countries matching the match dates? 
-- Network idea for this: nodes = teams. Links based on number (normalised/fitlered signal?) of visit per month and a certain threshold. Given that threshold, can we see the countries of the world cup linking each other during the event. 
+- Finding which teams played a match on a certain date. Look at the evolution of number of views. Is there a peak for certain countries matching the match dates? 
+- Network idea for this: nodes = teams. Links based on number (normalised/fitlered signal?) of visit per month. Finding peaks in the number of views, can we see the countries of the world cup linking each other during the event. 
 
 #### TASK 3. Identifying teams:
 
