@@ -2,7 +2,6 @@
 #### Group 9: Maxence DRAGUET, Robert INJAC, Yannick KLOSE & Manana LORTKIPANIDZE
 
 <b>In this Readme</b>, you will find in the following order: 
-- A link to the report.
 - A description of the notebook available on this Github Page.
 - A description of the task we set out to answer.
 - A description of the data available/used in this project.
@@ -13,7 +12,7 @@
 - Task_2: exploit the signal (number of view per days) to perform some basic exploration of our data. Can we identifed when matches happended, which team played? 
 - Task_3: from the Hyperlink network, can we cluster nodes into teams exploiting the "heat transmission" approach? Also builds an interesting network based on Pearson correlation between nodes. How clustered is this resulting network? 
 
-A more detailed reasoning behind each task follows.
+A <i>report</i> PDF gathers the result obtained throughout this project.  A more detailed reasoning behind each task follows.
 
 # THE TASKS
 ## Why the World Cup?
