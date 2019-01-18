@@ -1,4 +1,4 @@
-# Project Wikipedia
+# A Network Analysis of the 2018 FIFA World Cup
 In this Readme, you will find in the following order: 
 - A link to the report.
 - A description of the notebook available on this Github Page.
@@ -42,7 +42,7 @@ Note: some of our first ideas needed to sample the number of visits on given Wik
 
 ### Adjacencies available:
 - **adjacency_hyperlinks**: constructed with every category and links based on hyperlinks. **This is directed and it is normal!** If you need it otherwise, symmetrise it and save it in another csv. 
-- ...
+- **adjacency_pearson_correaltion**: constructed with every category and link weights based on the Pearson correlation value. This is thus a weighted symmetric matrix. 
 
 ### With Numbers of Visit
 
@@ -78,7 +78,7 @@ Separeted Info:
 - countries in the 2018 World Cup in All_countries.csv
 - teams in the 2018 World Cup in All_National_Teams.csv
 
-And in extra, with more entries than just that World Cup: [modified for question 2 in later]
+And in extra, with more entries than just that World Cup: 
 
 - any countries in any world cup in Countries_Enlarged.csv
 
