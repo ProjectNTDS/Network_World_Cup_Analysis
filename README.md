@@ -1,5 +1,5 @@
 # A Network Analysis of the 2018 FIFA World Cup
-## Group 9: Maxence DRAGUET, Robert INJAC, Yannick KLOSE & Manana LORTKIPANIDZE
+#### Group 9: Maxence DRAGUET, Robert INJAC, Yannick KLOSE & Manana LORTKIPANIDZE
 
 <b>In this Readme</b>, you will find in the following order: 
 - A link to the report.
