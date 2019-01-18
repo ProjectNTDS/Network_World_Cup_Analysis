@@ -7,7 +7,7 @@ In this Readme, you will find in the following order:
 
 # Description of notebooks:
 - Data_Gathering: exposes some of the methods use to gather the data.
-- Task_1: expose the analysis of the Hyperlink network (formed by hyperlinks on each Wikipedia Page connecting our nodes). The Louvain method is used here as a first attempt to cluster our graph. Spectral clustering using K-means is also exploited. 
+- Task_1: expose the analysis of the Hyperlink network (formed by hyperlinks on each Wikipedia Page connecting our nodes). The Louvain method is used here as a first attempt to cluster our graph.
 - Task_2: exploit the signal (number of view per days) to perform some basic exploration of our data. Can we identifed when matches happended, which team played? 
 - Task_3: from the Hyperlink network, can we cluster nodes into teams exploiting the "heat transmission" approach? Also builds an interesting network based on Pearson correlation between nodes. How clustered is this resulting network? 
 
@@ -21,7 +21,7 @@ This playful and light event is an incredible opportunity to extract information
 Note: some of our first ideas needed to sample the number of visits on given Wikipedia pages <b>per hour</b>. The API unfortunately does not offer this possibility.
 
 #### TASK 1. Network analysis:
-- Can we, based on properties of the nodes, identify the categories in a network made of countries, national teams and players connected by the hyperlinks (which we shall name <b>hyperlink network</b>? Are leafs players, centre countries, ... ? Is this network scale-free as one would expect? After this exploratory analysis, can we obtain clusters applying the Louvain method ? Let's also not forget  about the opportunities offered by spectral analysis.
+- Can we, based on properties of the nodes, identify the categories in a network made of countries, national teams and players connected by the hyperlinks (which we shall name <b>hyperlink network</b>? Are leafs players, centre countries, ... ? Is this network scale-free as one would expect? After this exploratory analysis, can we obtain clusters applying the Louvain method ? Let's also not forget about the opportunities offered by spectral analysis.
 
 #### TASK 2. Finding the matches: 
 
