@@ -11,7 +11,7 @@ https://www.overleaf.com/4566391933wdfgnpfbnpsd
 
 # Description of notebooks:
 - Data_Gathering: exposes some of the methods use to gather the data.
-- Task_1: expose the analysis of the Hyperlink network (formed by hyperlinks on each Wikipedia Page connecting our nodes). The Louvain method and ...
+- Task_1: expose the analysis of the Hyperlink network (formed by hyperlinks on each Wikipedia Page connecting our nodes). The Louvain method is used here as a first attempt to cluster our graph. 
 - Task_2: exploit the signal (number of view per days) to perform some basic exploration of our data. Can we identifed when matches happended, which team played? 
 - Task_3: from the Hyperlink network, can we cluster nodes into teams exploiting the "heat transmission" approach? Also builds an interesting network based on Pearson correlation between nodes. How clustered is this resulting network? 
 
