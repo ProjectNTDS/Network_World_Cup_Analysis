@@ -5,10 +5,6 @@ In this Readme, you will find in the following order:
 - A description of the task we set out to answer.
 - A description of the data available/used in this project.
 
-# Report link:
-
-https://www.overleaf.com/4566391933wdfgnpfbnpsd
-
 # Description of notebooks:
 - Data_Gathering: exposes some of the methods use to gather the data.
 - Task_1: expose the analysis of the Hyperlink network (formed by hyperlinks on each Wikipedia Page connecting our nodes). The Louvain method is used here as a first attempt to cluster our graph. Spectral clustering using K-means is also exploited. 
